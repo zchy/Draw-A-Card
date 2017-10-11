@@ -1,3 +1,7 @@
+/*
+Ziaul Choudhury
+Java Draw a Card game
+*/
 package projectGui;
 
 import java.util.Scanner;
